@@ -2,8 +2,8 @@
 * **Nama Lengkap:** Arsina
 * **NIM:** 230401010199
 * **Kelas:** IF 405
-* [cite_start]**Program Studi:** PJJ Informatika
-* [cite_start]**Mata Kuliah:** Data Science
+* **Program Studi:** PJJ Informatika
+* **Mata Kuliah:** Data Science
 ---
 
 
@@ -20,29 +20,36 @@ Berikut adalah rincian materi dari Pertemuan 1 hingga 7 beserta tautan langsung 
     * Definisi dan pilar utama Data Science.
     * Siklus hidup proyek data menggunakan metodologi CRISP-DM.
     * Pengenalan lingkungan kerja Google Colab, Python, dan GitHub.
+        [Repo Pertemuan 1 Klik Disini yaa~](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan1_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 2: Struktur Data Python, NumPy & Pandas]**
     * Manipulasi list, tuple, dictionary, dan set.
     * Komputasi numerik dengan NumPy `ndarray`.
     * Eksplorasi data tabular dengan Pandas Series dan DataFrame (termasuk _filtering_ dan agregasi).
+        [Repo Pertemuan 2 Coy!](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan2_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 3: Data Cleaning: Missing Values, Outlier & Ekstraksi Data])**
     * Deteksi dan penanganan *missing values* serta data duplikat.
     * Penanganan *outlier* menggunakan metode IQR Fence dan Z-Score.
     * Ekstraksi data dari format JSON dan REST API publik.
+        [Repo Pertemuan 3 hehe :>](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan3_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 4: Statistika Dasar & Analisis Data]**
     * Ukuran pemusatan (Mean, Median, Modus) dan penyebaran (Varians, Standar Deviasi, IQR).
     * Analisis univariat (Histogram, Boxplot) dan analisis bivariat (Korelasi Pearson/Spearman, Scatter Plot).
+        [Repo Pertemuan 4 hmm](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan4_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 5: Visualisasi Data]**
     * Penerapan 5 prinsip visualisasi efektif (Clarity, Accuracy, Efficiency, Aesthetics, Context).
     * Pembuatan grafik dasar dengan Matplotlib (Bar chart, Line chart).
     * Visualisasi statistik tingkat lanjut dengan Seaborn dan pendekatan analisis analitik (*What? So what? Now what?*).
+        [Udah Repo Pertemuan 5 gils](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan5_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 6: Persiapan Data]**
     * *Encoding* data kategorikal (Label, One-Hot, Ordinal Encoding).
     * *Feature Scaling* (MinMaxScaler, StandardScaler, RobustScaler).
     * Pemisahan dataset menjadi *Training Set* dan *Test Set* untuk mencegah *data leakage*.
+        [Repo Pertemuan 6 qaqa ](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan6_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 7: Pengantar Machine Learning: Regresi Linear]**
     * Perbedaan *Supervised* vs *Unsupervised Learning*, serta Klasifikasi vs Regresi.
     * Implementasi algoritma Regresi Linear dengan `scikit-learn`.
     * Evaluasi performa model menggunakan metrik MAE, RMSE, dan R-Squared.
+        [Aishh Repo P7 Klik disini bosq](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan6_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 
     ## 4. Tools & Libraries yang Digunakan
 
