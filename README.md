@@ -51,6 +51,27 @@ Berikut adalah rincian materi dari Pertemuan 1 hingga 7 beserta tautan langsung 
     * Evaluasi performa model menggunakan metrik MAE, RMSE, dan R-Squared.
         [Aishh Repo P7 Klik disini bosq](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan6_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 
+  * **[Pertemuan 8: UTS]**
+    * Ujian Tengah Semester. *Rest and reset!* ☕
+
+* **[Pertemuan 9: Algoritma Klasifikasi (Bagian 1)]**
+    * Belajar bedanya regresi dan klasifikasi. Mulai pakai *Logistic Regression* dan *Decision Tree* buat prediksi kategori.
+        [Link Hands On 9] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan9_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+* **[Pertemuan 10: Algoritma Klasifikasi (Bagian 2)]**
+    * Kenalan sama *Random Forest* (gabungin banyak pohon keputusan). Belajar juga cara nangani *imbalanced dataset* (data yang berat sebelah) pakai metode SMOTE
+        [Link Hands On 10] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan10_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+* **[Pertemuan 11: Unsupervised Learning (Clustering)]**
+    * K-Means & Hierarchical Clustering: Ngajarin komputer buat nge-grup-in data (misal: segmentasi pelanggan) tanpa dikasih tau labelnya.
+        [Link Hands On 11] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan11_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+* **[Pertemuan 12: Asosiasi Data & Sistem Rekomendasi]**
+    * Belajar *Market Basket Analysis* pakai algoritma Apriori. 
+        [Link Hands On 12] {https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan12_%5BARSINA%5D_%5B230401010199%5D.ipynb}
+* **[Pertemuan 13: Deep Learning & NLP Dasar]**
+    * Bikin Jaringan Saraf Tiruan (*Neural Network*) sederhana dan belajar bikin model buat analisis sentimen teks (NLP) pakai metode TF-IDF.      
+        [Hands On Terakhirrrrr Klik disini] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan13_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+
+
+
     ## 4. Tools & Libraries yang Digunakan
 
 Proyek dan tugas dalam repository ini dibangun menggunakan tumpukan teknologi modern ekosistem Python:
@@ -91,10 +112,26 @@ Anda dapat menjelajahi dan menjalankan seluruh kode di dalam repository ini deng
 
 ---
 
-## 6. Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
+## 6. Kesimpulan Perjalanan Belajar Satu Semesterrrr (Updatee)
 
-Jujur, perjalanan dari Pertemuan 1 sampai 7 ini lumayan mengubah cara pandang saya. Kalau awalnya saya cuma melihat data sebagai deretan angka yang kaku, sekarang saya sadar kalau data itu sebenarnya "bahan baku" yang sangat strategis. Belajar kerangka kerja CRISP-DM di awal juga ngasih *insight* penting buat saya: sebelum repot-repot ngoding, paham tujuan bisnisnya itu justru yang paling utama.
+Secara keseluruhan, mata kuliah Data Science ini memberikan pemahaman yang komprehensif mengenai siklus hidup pemrosesan data (sejalan dengan *framework* CRISP-DM), mulai dari tahap ekstraksi data mentah hingga implementasi model kecerdasan buatan tingkat lanjut. 
 
-Pas masuk ke bagian teknis pakai Pandas untuk *Data Cleaning*, saya baru ngerasain sendiri realitanya—ternyata bener ya, beresin data yang kotor (kayak *missing values* atau *outlier*) itu memang fase yang paling menantang dan makan waktu. Nah, sebagai seorang desainer, bagian visualisasi data jelas jadi favorit saya. Tapi modul ini sedikit mengubah *mindset* saya, karena dalam Data Science, grafik itu nggak cukup cuma sekadar estetik atau cantik dilihat. Akurasi, efisiensi, dan kejelasan pesannya (*clarity*) justru jauh lebih penting.
+Berdasarkan silabus dari Pertemuan 1 hingga 13, pemahaman analitik ini mencakup tiga pilar utama:
 
-Terakhir, waktu mulai kenalan sama *Machine Learning* lewat algoritma Regresi Linear, saya dapat satu pelajaran berharga: sebagus apa pun algoritmanya, hasilnya bakal percuma kalau data awalnya nggak disiapin dengan bener (*encoding*, *scaling*, *split data*). Intinya, buat saya Data Science itu sama sekali bukan "sulap" yang tiba-tiba ngasih prediksi jitu. Ini murni proses yang logis, bertahap, dan sistematis banget buat ngubah catatan masa lalu jadi wawasan yang berharga.
+1. **Persiapan dan Eksplorasi Data (Data Preparation & EDA):**
+   Mempelajari teknik pembersihan data (*data cleaning*) untuk menangani *missing values* dan *outliers* menggunakan Pandas dan NumPy. Dilanjutkan dengan analisis statistik dasar dan perancangan visualisasi data yang efisien dan akurat menggunakan Matplotlib dan Seaborn.
+2. **Pemodelan Machine Learning (Supervised & Unsupervised):**
+   * **Supervised Learning:** Mengimplementasikan model prediktif berbasis target (label), seperti Regresi Linear untuk memprediksi angka kontinu, serta *Logistic Regression*, *Decision Tree*, dan *Random Forest* untuk tugas klasifikasi. Dilengkapi dengan teknik penanganan data tidak seimbang (*imbalanced dataset*) menggunakan SMOTE.
+   * **Unsupervised Learning:** Mengekstraksi pola dari data tanpa label. Menggunakan *K-Means* dan *Hierarchical Clustering* untuk pengelompokan data, serta metode Apriori untuk menemukan aturan asosiasi (*Market Basket Analysis*).
+3. **Pengantar Topik Lanjutan (Deep Learning & NLP):**
+   Memahami arsitektur dasar *Artificial Neural Network* (Jaringan Saraf Tiruan) untuk menyelesaikan masalah klasifikasi non-linear, serta dasar *Natural Language Processing* (NLP) menggunakan ekstraksi fitur TF-IDF untuk keperluan klasifikasi teks.
+
+### Apa yang Bisa Saya Terapkan?
+Berbekal pembelajaran dari ketiga pilar di atas, keterampilan ini dapat langsung saya terapkan pada berbagai studi kasus bisnis dan profesional, antara lain:
+
+* **Analisis & Pelaporan Bisnis:** Mampu merapikan data kotor dari berbagai sumber (CSV, JSON, API) dan mengubahnya menjadi *dashboard* atau visualisasi statistik yang siap digunakan untuk mendukung pengambilan keputusan.
+* **Klasifikasi & Prediksi Otomatis:** Mampu membangun model AI untuk memprediksi berbagai kemungkinan berdasarkan data historis, seperti memprediksi *churn* (pelanggan yang akan berhenti), mendeteksi anomali/spam, hingga klasifikasi kelulusan.
+* **Segmentasi Pelanggan & Rekomendasi:** Mampu menerapkan algoritma *Clustering* untuk membagi pelanggan ke dalam segmen-segmen spesifik berdasarkan perilaku belanjanya, serta membangun *rule-based recommender system* (Sistem Rekomendasi) untuk teknik *cross-selling* produk.
+* **Analisis Sentimen Otomatis:** Menggunakan teknik NLP dan regresi logistik untuk menganalisis ribuan teks ulasan produk atau komentar secara otomatis untuk mengkategorikannya menjadi sentimen positif, negatif, atau netral.
+
+Terimakasii Pak Syahid <3
