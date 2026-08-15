@@ -56,19 +56,19 @@ Berikut adalah rincian materi dari Pertemuan 1 hingga 7 beserta tautan langsung 
 
 * **[Pertemuan 9: Algoritma Klasifikasi (Bagian 1)]**
     * Belajar bedanya regresi dan klasifikasi. Mulai pakai *Logistic Regression* dan *Decision Tree* buat prediksi kategori.
-        [Link Hands On 9] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan9_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+        [Link Hands On 9](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan9_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 10: Algoritma Klasifikasi (Bagian 2)]**
     * Kenalan sama *Random Forest* (gabungin banyak pohon keputusan). Belajar juga cara nangani *imbalanced dataset* (data yang berat sebelah) pakai metode SMOTE
-        [Link Hands On 10] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan10_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+        [Link Hands On 10](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan10_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 11: Unsupervised Learning (Clustering)]**
     * K-Means & Hierarchical Clustering: Ngajarin komputer buat nge-grup-in data (misal: segmentasi pelanggan) tanpa dikasih tau labelnya.
-        [Link Hands On 11] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan11_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+        [Link Hands On 11](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan11_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 12: Asosiasi Data & Sistem Rekomendasi]**
     * Belajar *Market Basket Analysis* pakai algoritma Apriori. 
-        [Link Hands On 12] {https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan12_%5BARSINA%5D_%5B230401010199%5D.ipynb}
+        [Link Hands On 12](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan12_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 * **[Pertemuan 13: Deep Learning & NLP Dasar]**
     * Bikin Jaringan Saraf Tiruan (*Neural Network*) sederhana dan belajar bikin model buat analisis sentimen teks (NLP) pakai metode TF-IDF.      
-        [Hands On Terakhirrrrr Klik disini] (https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan13_%5BARSINA%5D_%5B230401010199%5D.ipynb)
+        [Hands On Terakhirrrrr Klik disini](https://github.com/Ch01pan/DataScience_230401010199_Arsina/blob/main/Pertemuan13_%5BARSINA%5D_%5B230401010199%5D.ipynb)
 
 
 
